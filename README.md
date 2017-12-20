@@ -7,4 +7,4 @@
     3.BookShelfIterator是实现Iterator 来迭代 BookShelf的类
     
 # 适配器设计模式
-    1.   
+    1.   adapter
