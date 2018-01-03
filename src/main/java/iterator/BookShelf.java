@@ -23,7 +23,6 @@ public class BookShelf implements Aggregate {
         return books.length;
     }
 
-    @Override
     public Iterator iterator() {
         return new BookShelfIterator(this);
     }
