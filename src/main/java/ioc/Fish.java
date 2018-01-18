@@ -9,4 +9,9 @@ public class Fish extends Food {
     public Fish() {
         this.name = "гу";
     }
+
+
+    public Fish(String name) {
+        super(name);
+    }
 }

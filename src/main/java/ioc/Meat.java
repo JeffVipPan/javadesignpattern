@@ -8,4 +8,8 @@ public class Meat extends Food {
     public Meat() {
         this.name = "Ив";
     }
+
+    public Meat(String name) {
+        super(name);
+    }
 }
